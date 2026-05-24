@@ -1,6 +1,6 @@
 #include<iostream>
 int main() {
-    std::cout << "Two\n";
+    std::cout << "TheSecondTry\n";
     return 0;
 }
 
